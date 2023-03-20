@@ -1,0 +1,7 @@
+.workspace{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
